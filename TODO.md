@@ -1,0 +1,7 @@
+- [x] Remove Header and Footer from src/app/destinations/page.tsx
+- [ ] Remove Header and Footer from src/app/contact/page.tsx
+- [x] Remove Header and Footer from src/app/about/page.tsx
+- [x] Remove Header and Footer from src/app/itineraries/page.tsx
+- [x] Remove Header and Footer from src/app/blog/page.tsx
+- [x] Remove Header and Footer from src/app/about/team/page.tsx
+- [x] Remove Header and Footer from src/app/about/values/page.tsx

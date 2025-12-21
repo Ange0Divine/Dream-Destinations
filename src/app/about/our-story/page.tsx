@@ -1,7 +1,7 @@
-export default function AboutPage() {
+export default function OurStoryPage() {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-      <h1 className="text-4xl font-bold text-primary mb-6">About Dream Destinations</h1>
+      <h1 className="text-4xl font-bold text-primary mb-6">Our Story</h1>
       <div className="prose max-w-none">
         <p className="text-lg mb-4">
           Welcome to Dream Destinations Tours & Travel, your premier partner in creating unforgettable African safari experiences.
